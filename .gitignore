@@ -1,0 +1,7 @@
+# ignore temp word files
+*.tmp
+~$*.doc*
+
+# ignore html files in output folder
+7-output/demo/*.html
+7-output/demo/assets
